@@ -1,4 +1,4 @@
-# ZenBoard (Zenflow)
+# Zenflow
 
 A compact, privacy-first Kanban board built as a Next.js app with a legacy browser-based client.
 
