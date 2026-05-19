@@ -2,6 +2,8 @@
 
 A compact, privacy-first Kanban board ported into a Next.js app. ZenBoard stores your board locally (encrypted with a passphrase) and can optionally sync to a Supabase backend. This repository contains a TypeScript/Next.js wrapper around a legacy, browser-first JavaScript codebase that attaches a global `KanbanBoard` and bootstraps a DOM-driven UI.
 
+![ZenBoard screenshot](public/screenshot.png)
+
 ## Key points and quick summary
 
 - Tech: Next.js 13 (React 18) + TypeScript. See `package.json` for versions.
